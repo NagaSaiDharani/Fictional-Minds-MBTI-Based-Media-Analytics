@@ -161,7 +161,7 @@ Power BI dashboards were created to visualize:
 - MBTI-driven preferences
 - Platform-wise performance metrics
 
-📁 Dashboard screenshots available in `/dashboards/powerbi_screenshots`
+📁 Dashboard screenshots available in `/dashboards/powerbi/screenshots`
 
 ---
 

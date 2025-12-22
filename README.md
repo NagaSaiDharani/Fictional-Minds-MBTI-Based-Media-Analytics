@@ -9,6 +9,12 @@ This project analyzes how **MBTI personality types influence media consumption b
 
 ---
 
+## 🔍 Project Overview
+
+This project is an end-to-end SQL and Power BI analytics case study that explores how MBTI personality types influence media consumption, engagement, and platform preferences across digital entertainment ecosystems.
+
+---
+
 ## 🎯 Project Objectives
 
 - Understand **user demographics and MBTI personality distribution**
@@ -31,6 +37,8 @@ The analysis is performed on a **relational dataset with 5 normalized tables**:
 | genres | Genre master data |
 | content_genres | Many-to-many mapping between content and genres |
 | interactions | User interactions including ratings, completion %, and favorites |
+
+Note: The dataset is synthetically generated to simulate real-world platform behavior while preserving realistic distributions and engagement patterns.
 
 ### 📌 Dataset Scale
 
@@ -143,6 +151,8 @@ Techniques used:
 ---
 
 ## 📊 Dashboards (Power BI)
+
+The dashboards are powered by SQL-derived datasets, where data cleaning, aggregation, and analytical logic were performed in SQL before visualization in Power BI.
 
 Power BI dashboards were created to visualize:
 

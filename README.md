@@ -42,7 +42,7 @@ The analysis is performed on a **relational dataset with 5 normalized tables**:
 ---
 
 ## 🧩 Data Modeling (ERD)
-
+![Entity Relationship Diagram](erd/erd_fictional_minds.png)
 - Fully **normalized schema (3NF)**
 - Junction table used to resolve **many-to-many** content–genre relationships
 - Interaction-level granularity enables **behavioral analytics**

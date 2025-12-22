@@ -1,0 +1,2 @@
+-- Database schema definition
+-- Tables: users, content, genres, content_genres, interactions

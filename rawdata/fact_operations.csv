@@ -1,0 +1,501 @@
+Order_ID,Delivery_Status,Delay_Days,Warehouse,Returned_Flag
+ORD-1018,Delayed,1,WH-B,Yes
+ORD-1170,Delayed,5,,Yes
+ORD-1449,Delayed,,WH-A,Yes
+ORD-1073,Delivered,0,WH-C,No
+ORD-1060,Delivered,1,,YES 
+ORD-1426,delivered ,7,,YES 
+ORD-1152,Returned,1,WH-C,
+ORD-1275,Delayed,0,,YES 
+ORD-1047,delivered ,7,WH-B,YES 
+ORD-1210,Delivered,1,WH-C,YES 
+ORD-1342,Delivered,7,,YES 
+ORD-1407,Returned,,WH-C,
+ORD-1138,Returned,,WH-C,No
+ORD-1109,Returned,0,WH-C,Yes
+ORD-1481,delivered ,0,WH-A,YES 
+ORD-1182,Delivered,7,,No
+ORD-1027,Delivered,2,WH-A,YES 
+ORD-1196,Returned,3,,YES 
+ORD-1190,Delayed,1,WH-B,Yes
+ORD-1314,Returned,1,WH-B,Yes
+ORD-1388,delivered ,2,WH-B,Yes
+ORD-1050,Returned,2,,YES 
+ORD-1148,Returned,2,WH-C,YES 
+ORD-1267,delivered ,5,WH-C,YES 
+ORD-1049,Returned,5,WH-A,Yes
+ORD-1387,Delivered,7,WH-A,
+ORD-1245,Delayed,5,WH-B,No
+ORD-1112,Returned,,WH-A,
+ORD-1169,delivered ,,,YES 
+ORD-1467,Delayed,0,,YES 
+ORD-1165,delivered ,7,WH-A,
+ORD-1408,Delayed,1,WH-A,YES 
+ORD-1013,Delayed,3,WH-A,No
+ORD-1202,Returned,0,WH-A,YES 
+ORD-1287,Delivered,1,WH-B,No
+ORD-1394,Returned,1,WH-B,
+ORD-1188,delivered ,7,WH-A,
+ORD-1401,delivered ,2,,YES 
+ORD-1154,Delayed,2,WH-B,No
+ORD-1054,Delayed,0,,YES 
+ORD-1181,Delivered,2,WH-C,Yes
+ORD-1209,Returned,1,,Yes
+ORD-1375,delivered ,2,WH-A,Yes
+ORD-1470,Delayed,5,WH-C,Yes
+ORD-1074,Delivered,2,WH-B,YES 
+ORD-1276,delivered ,1,WH-B,Yes
+ORD-1427,Delayed,7,WH-C,No
+ORD-1132,delivered ,0,,
+ORD-1342,Delivered,3,WH-B,
+ORD-1424,Delivered,2,WH-A,Yes
+ORD-1058,delivered ,,WH-C,Yes
+ORD-1344,Returned,,WH-A,Yes
+ORD-1488,delivered ,1,WH-C,YES 
+ORD-1181,Delayed,3,WH-B,
+ORD-1457,Returned,3,,Yes
+ORD-1405,Delayed,5,WH-C,No
+ORD-1338,delivered ,3,WH-C,Yes
+ORD-1320,Returned,,WH-A,
+ORD-1063,Delayed,7,WH-B,Yes
+ORD-1326,delivered ,1,WH-A,
+ORD-1259,delivered ,1,WH-B,Yes
+ORD-1192,Returned,2,WH-A,No
+ORD-1142,delivered ,2,WH-C,Yes
+ORD-1103,Delivered,2,WH-A,No
+ORD-1459,Delayed,,,No
+ORD-1405,Delayed,,WH-B,Yes
+ORD-1213,delivered ,,WH-B,No
+ORD-1241,delivered ,,WH-C,YES 
+ORD-1430,Delivered,,WH-B,Yes
+ORD-1208,Returned,,,Yes
+ORD-1092,delivered ,7,WH-A,No
+ORD-1429,delivered ,,WH-C,No
+ORD-1141,delivered ,3,,Yes
+ORD-1433,delivered ,3,WH-B,YES 
+ORD-1403,Delayed,5,WH-B,No
+ORD-1433,delivered ,7,,No
+ORD-1111,Delayed,2,WH-A,
+ORD-1416,delivered ,0,WH-A,YES 
+ORD-1374,Returned,,WH-C,YES 
+ORD-1058,Delivered,5,WH-B,Yes
+ORD-1042,Returned,0,,YES 
+ORD-1206,delivered ,3,WH-A,Yes
+ORD-1267,delivered ,5,WH-C,
+ORD-1295,delivered ,5,WH-B,YES 
+ORD-1117,Returned,1,WH-B,No
+ORD-1019,delivered ,3,WH-C,
+ORD-1221,Returned,3,WH-C,Yes
+ORD-1165,Delayed,7,WH-A,
+ORD-1130,Delivered,5,,Yes
+ORD-1155,Delivered,,WH-B,
+ORD-1183,Returned,3,,Yes
+ORD-1089,Delayed,5,WH-B,YES 
+ORD-1093,Returned,7,WH-B,No
+ORD-1012,Delayed,,,Yes
+ORD-1460,delivered ,7,WH-C,
+ORD-1321,Delayed,1,WH-A,Yes
+ORD-1292,Delayed,,WH-B,Yes
+ORD-1432,Delayed,5,WH-C,Yes
+ORD-1229,Delivered,3,WH-B,
+ORD-1321,Delayed,3,WH-A,No
+ORD-1291,delivered ,5,WH-B,YES 
+ORD-1437,delivered ,5,WH-A,No
+ORD-1025,delivered ,5,WH-A,Yes
+ORD-1074,Delayed,2,WH-B,
+ORD-1455,Returned,,WH-B,No
+ORD-1363,Returned,3,WH-A,Yes
+ORD-1423,delivered ,,WH-C,YES 
+ORD-1298,Delivered,7,,YES 
+ORD-1149,Returned,3,WH-A,YES 
+ORD-1147,Delayed,2,WH-B,Yes
+ORD-1007,Returned,5,WH-B,
+ORD-1028,delivered ,1,WH-C,No
+ORD-1295,Delivered,5,,YES 
+ORD-1473,Returned,5,WH-A,Yes
+ORD-1413,Returned,2,WH-A,Yes
+ORD-1208,delivered ,,,No
+ORD-1127,Delivered,3,WH-A,YES 
+ORD-1339,Delivered,5,,Yes
+ORD-1115,delivered ,3,WH-B,No
+ORD-1438,Delayed,0,,
+ORD-1143,Returned,7,WH-A,
+ORD-1429,Delayed,,,
+ORD-1317,Returned,3,WH-C,YES 
+ORD-1234,Returned,1,WH-B,No
+ORD-1006,Delayed,7,WH-B,No
+ORD-1463,delivered ,1,,Yes
+ORD-1044,delivered ,5,WH-A,Yes
+ORD-1442,Returned,7,WH-C,Yes
+ORD-1238,delivered ,3,WH-B,No
+ORD-1439,Returned,7,WH-B,Yes
+ORD-1431,delivered ,5,WH-A,No
+ORD-1154,Returned,2,WH-A,No
+ORD-1180,delivered ,,WH-C,
+ORD-1214,Delivered,1,,Yes
+ORD-1087,Delayed,5,WH-A,
+ORD-1255,Delivered,2,,YES 
+ORD-1072,Delayed,7,WH-C,YES 
+ORD-1418,Delayed,7,,YES 
+ORD-1178,Returned,5,WH-B,No
+ORD-1211,Delayed,3,,No
+ORD-1292,Delivered,7,WH-C,No
+ORD-1233,Delivered,3,WH-C,Yes
+ORD-1464,delivered ,3,WH-C,
+ORD-1238,Delivered,,,No
+ORD-1222,delivered ,3,WH-B,
+ORD-1118,Delayed,0,WH-A,
+ORD-1312,Delivered,,WH-B,
+ORD-1263,Delayed,2,,Yes
+ORD-1206,Delivered,2,,Yes
+ORD-1094,Delivered,7,WH-A,YES 
+ORD-1372,delivered ,7,,YES 
+ORD-1221,Delayed,3,WH-C,
+ORD-1365,Delivered,,WH-C,YES 
+ORD-1275,Returned,,WH-C,
+ORD-1379,Delayed,0,WH-C,Yes
+ORD-1230,Delayed,3,WH-C,Yes
+ORD-1308,Delayed,0,,Yes
+ORD-1118,delivered ,3,WH-A,No
+ORD-1267,Returned,1,WH-A,
+ORD-1432,Delayed,1,WH-C,Yes
+ORD-1272,Delivered,5,,
+ORD-1063,Delivered,3,WH-B,YES 
+ORD-1297,delivered ,,WH-B,YES 
+ORD-1349,Delivered,7,,Yes
+ORD-1412,Delayed,2,WH-C,
+ORD-1402,Delivered,5,WH-A,Yes
+ORD-1493,Delayed,7,,YES 
+ORD-1010,Delivered,1,WH-B,Yes
+ORD-1097,Returned,3,WH-B,
+ORD-1433,delivered ,5,WH-B,YES 
+ORD-1070,delivered ,3,WH-C,No
+ORD-1363,Returned,1,WH-B,YES 
+ORD-1057,Returned,5,,No
+ORD-1289,delivered ,1,,Yes
+ORD-1250,Returned,0,WH-B,Yes
+ORD-1275,Delayed,1,,
+ORD-1049,Delivered,,WH-B,No
+ORD-1357,delivered ,,WH-B,Yes
+ORD-1215,Returned,3,WH-A,No
+ORD-1393,Delayed,2,WH-C,Yes
+ORD-1415,delivered ,1,WH-C,YES 
+ORD-1051,Returned,7,WH-A,Yes
+ORD-1270,delivered ,,WH-A,
+ORD-1484,Returned,2,WH-C,YES 
+ORD-1083,delivered ,0,WH-B,
+ORD-1386,Delayed,5,WH-B,YES 
+ORD-1292,Delayed,5,WH-C,No
+ORD-1125,Delivered,,WH-B,
+ORD-1295,delivered ,2,WH-A,Yes
+ORD-1071,Delivered,,WH-B,No
+ORD-1295,delivered ,5,WH-B,Yes
+ORD-1235,Returned,1,,YES 
+ORD-1055,Returned,2,,YES 
+ORD-1406,Delivered,3,,Yes
+ORD-1359,delivered ,1,WH-B,Yes
+ORD-1394,Delivered,1,WH-C,No
+ORD-1109,Delayed,1,WH-A,Yes
+ORD-1191,Delivered,3,WH-B,
+ORD-1391,Delivered,0,WH-C,
+ORD-1092,Returned,7,WH-B,Yes
+ORD-1349,Delivered,,WH-A,
+ORD-1055,delivered ,5,WH-B,Yes
+ORD-1059,Returned,,WH-A,No
+ORD-1137,Delivered,2,WH-B,
+ORD-1038,Delayed,0,WH-A,
+ORD-1027,Delivered,2,WH-B,Yes
+ORD-1048,Delivered,,WH-A,
+ORD-1419,Delivered,5,,YES 
+ORD-1124,Returned,3,WH-B,No
+ORD-1012,delivered ,,WH-B,No
+ORD-1479,Delayed,1,WH-C,
+ORD-1035,Delivered,,WH-C,
+ORD-1100,delivered ,1,WH-A,YES 
+ORD-1281,delivered ,3,WH-B,YES 
+ORD-1085,Returned,,WH-A,
+ORD-1003,Delayed,0,,
+ORD-1222,Returned,0,WH-C,YES 
+ORD-1337,delivered ,2,WH-A,Yes
+ORD-1447,delivered ,3,WH-A,YES 
+ORD-1165,delivered ,0,WH-C,Yes
+ORD-1382,Returned,,WH-B,No
+ORD-1343,Delayed,3,WH-A,No
+ORD-1382,Delivered,5,WH-C,YES 
+ORD-1375,Returned,1,WH-B,Yes
+ORD-1470,delivered ,,,YES 
+ORD-1277,Returned,1,WH-C,YES 
+ORD-1129,delivered ,1,WH-A,Yes
+ORD-1030,Delivered,3,,YES 
+ORD-1374,Delivered,3,WH-B,No
+ORD-1010,Delayed,2,WH-B,
+ORD-1475,delivered ,1,WH-C,
+ORD-1301,Delayed,2,WH-C,YES 
+ORD-1095,Delayed,1,WH-C,Yes
+ORD-1189,Delivered,2,WH-B,Yes
+ORD-1452,Returned,2,,No
+ORD-1191,Returned,5,WH-B,Yes
+ORD-1485,Delayed,2,WH-A,Yes
+ORD-1265,Delivered,3,WH-B,No
+ORD-1423,delivered ,2,WH-A,YES 
+ORD-1127,Returned,1,,
+ORD-1237,Delayed,2,WH-C,No
+ORD-1407,Returned,0,WH-C,YES 
+ORD-1354,Returned,7,WH-B,No
+ORD-1427,delivered ,1,WH-C,YES 
+ORD-1111,Delivered,0,,No
+ORD-1315,delivered ,1,WH-C,YES 
+ORD-1445,Delivered,3,WH-B,No
+ORD-1342,Returned,7,,YES 
+ORD-1144,Delayed,7,WH-A,No
+ORD-1064,delivered ,3,WH-B,
+ORD-1246,Delivered,7,WH-A,
+ORD-1222,Returned,3,,Yes
+ORD-1478,Delivered,0,WH-B,YES 
+ORD-1489,Delivered,5,WH-B,No
+ORD-1312,Delivered,1,,YES 
+ORD-1438,Returned,3,WH-C,
+ORD-1105,Delayed,1,WH-B,YES 
+ORD-1180,Delayed,0,WH-B,No
+ORD-1183,Delayed,5,WH-A,YES 
+ORD-1225,Delivered,0,WH-C,No
+ORD-1264,Returned,7,WH-A,
+ORD-1277,Delivered,1,WH-A,
+ORD-1396,Delayed,,WH-C,
+ORD-1088,Delayed,5,WH-C,Yes
+ORD-1175,Returned,7,,
+ORD-1017,Delivered,5,WH-C,YES 
+ORD-1370,delivered ,7,WH-B,Yes
+ORD-1459,delivered ,0,WH-C,
+ORD-1423,Delayed,3,,YES 
+ORD-1400,Returned,1,,YES 
+ORD-1398,Delivered,2,,YES 
+ORD-1105,Delivered,2,WH-C,No
+ORD-1270,Delayed,0,WH-C,Yes
+ORD-1462,Delayed,1,WH-A,YES 
+ORD-1318,Delivered,1,WH-A,No
+ORD-1166,Delivered,0,WH-B,
+ORD-1012,Delayed,1,WH-A,YES 
+ORD-1336,Delivered,3,WH-B,No
+ORD-1031,delivered ,0,,YES 
+ORD-1392,Delayed,3,WH-A,Yes
+ORD-1039,Delivered,1,WH-C,Yes
+ORD-1147,Delayed,0,WH-A,
+ORD-1217,Returned,1,WH-B,YES 
+ORD-1218,Delayed,0,WH-A,No
+ORD-1468,Delayed,1,,
+ORD-1081,Returned,3,WH-C,YES 
+ORD-1332,delivered ,,WH-B,
+ORD-1207,Delivered,3,WH-C,No
+ORD-1200,Returned,1,WH-C,
+ORD-1446,Delayed,0,WH-B,
+ORD-1331,Delivered,2,WH-C,
+ORD-1427,Returned,3,WH-C,YES 
+ORD-1037,Delivered,3,WH-A,No
+ORD-1210,Delivered,7,WH-C,Yes
+ORD-1443,Returned,2,WH-C,YES 
+ORD-1326,Delivered,1,WH-C,Yes
+ORD-1248,delivered ,,WH-C,Yes
+ORD-1226,Returned,0,WH-B,YES 
+ORD-1047,delivered ,7,,YES 
+ORD-1017,Delayed,1,WH-A,No
+ORD-1399,Delivered,5,WH-C,No
+ORD-1438,Delayed,,WH-C,
+ORD-1294,Delayed,3,WH-B,Yes
+ORD-1195,Delivered,5,,No
+ORD-1186,Returned,3,WH-C,
+ORD-1344,Delivered,3,WH-B,No
+ORD-1223,Delayed,5,WH-A,YES 
+ORD-1317,Delayed,,WH-A,No
+ORD-1487,Returned,5,WH-C,Yes
+ORD-1396,Delivered,1,WH-C,No
+ORD-1364,Delayed,7,,Yes
+ORD-1336,delivered ,7,,YES 
+ORD-1496,Delayed,5,WH-C,Yes
+ORD-1228,Delayed,1,WH-B,No
+ORD-1389,Returned,7,,
+ORD-1466,delivered ,1,WH-C,YES 
+ORD-1076,Delayed,1,,No
+ORD-1187,Delayed,3,WH-C,YES 
+ORD-1345,delivered ,7,WH-A,YES 
+ORD-1269,Delivered,7,WH-C,No
+ORD-1094,Delivered,3,WH-A,No
+ORD-1309,Delayed,5,,
+ORD-1131,Delayed,3,WH-C,YES 
+ORD-1038,Delivered,7,,YES 
+ORD-1071,Returned,7,WH-A,No
+ORD-1280,delivered ,,WH-C,Yes
+ORD-1332,delivered ,5,,No
+ORD-1159,Returned,3,WH-A,YES 
+ORD-1186,Returned,0,,No
+ORD-1485,Returned,0,WH-B,
+ORD-1190,Returned,5,WH-A,Yes
+ORD-1421,Returned,3,WH-A,No
+ORD-1119,Returned,3,WH-A,
+ORD-1219,delivered ,1,WH-C,YES 
+ORD-1052,Returned,7,WH-C,No
+ORD-1221,Delivered,2,WH-C,YES 
+ORD-1450,Returned,,WH-B,
+ORD-1411,Returned,5,WH-B,YES 
+ORD-1130,delivered ,2,WH-A,
+ORD-1236,delivered ,2,WH-B,
+ORD-1245,Returned,5,,
+ORD-1225,delivered ,3,WH-A,No
+ORD-1207,Delayed,5,WH-A,YES 
+ORD-1405,delivered ,2,,YES 
+ORD-1095,delivered ,7,WH-A,Yes
+ORD-1421,delivered ,,WH-B,Yes
+ORD-1199,delivered ,,WH-C,Yes
+ORD-1246,Delivered,7,,Yes
+ORD-1071,Delivered,7,WH-B,YES 
+ORD-1317,Delivered,3,,
+ORD-1184,Returned,0,,
+ORD-1005,Returned,5,WH-A,No
+ORD-1205,Delayed,,WH-A,
+ORD-1031,Delivered,7,WH-B,YES 
+ORD-1098,Returned,5,,YES 
+ORD-1393,delivered ,,WH-A,YES 
+ORD-1386,delivered ,7,WH-A,No
+ORD-1255,Delivered,,,Yes
+ORD-1186,Delayed,3,WH-B,
+ORD-1075,Delayed,0,WH-B,YES 
+ORD-1176,delivered ,0,,YES 
+ORD-1314,Delayed,7,WH-B,Yes
+ORD-1286,Delivered,,WH-A,YES 
+ORD-1348,delivered ,3,,
+ORD-1254,Returned,1,WH-A,No
+ORD-1324,Returned,5,WH-C,YES 
+ORD-1189,Delayed,5,WH-C,
+ORD-1307,delivered ,2,WH-B,YES 
+ORD-1344,delivered ,3,WH-C,Yes
+ORD-1126,Returned,,WH-A,YES 
+ORD-1424,delivered ,2,WH-C,YES 
+ORD-1286,delivered ,7,WH-A,No
+ORD-1253,delivered ,,WH-B,Yes
+ORD-1212,Delayed,2,WH-B,Yes
+ORD-1249,delivered ,0,WH-A,No
+ORD-1083,Delivered,5,WH-C,YES 
+ORD-1486,Delayed,,WH-B,
+ORD-1382,delivered ,2,,Yes
+ORD-1405,delivered ,0,WH-B,Yes
+ORD-1387,Delivered,3,WH-C,YES 
+ORD-1012,Delayed,2,,YES 
+ORD-1044,Returned,7,WH-C,Yes
+ORD-1126,Returned,7,WH-A,YES 
+ORD-1425,Delayed,7,,
+ORD-1113,delivered ,,WH-C,Yes
+ORD-1432,delivered ,5,,
+ORD-1275,Returned,2,WH-C,
+ORD-1499,Returned,3,,YES 
+ORD-1204,Returned,2,WH-C,
+ORD-1336,Delivered,5,WH-A,YES 
+ORD-1437,Returned,0,,No
+ORD-1419,Delivered,5,,YES 
+ORD-1480,Delayed,7,,
+ORD-1384,delivered ,,,No
+ORD-1398,Returned,0,WH-A,YES 
+ORD-1460,delivered ,,,
+ORD-1272,delivered ,7,WH-B,Yes
+ORD-1407,Returned,1,WH-A,Yes
+ORD-1057,Returned,5,WH-B,YES 
+ORD-1327,Delayed,5,,YES 
+ORD-1497,Delivered,3,WH-C,Yes
+ORD-1218,Delivered,2,WH-B,
+ORD-1108,delivered ,0,,
+ORD-1278,Returned,,WH-B,
+ORD-1173,Delayed,0,,YES 
+ORD-1327,Delayed,3,,No
+ORD-1263,Delayed,3,,No
+ORD-1314,Delayed,,WH-C,No
+ORD-1473,Delayed,2,WH-B,No
+ORD-1110,Delivered,,WH-A,No
+ORD-1186,Delivered,,WH-A,YES 
+ORD-1268,Delivered,7,WH-A,YES 
+ORD-1422,Returned,2,WH-A,No
+ORD-1228,delivered ,5,,YES 
+ORD-1496,Delayed,7,WH-B,YES 
+ORD-1155,Returned,1,WH-B,No
+ORD-1472,Delayed,2,WH-C,
+ORD-1188,Delivered,3,WH-B,YES 
+ORD-1271,Returned,7,WH-B,
+ORD-1374,Delivered,2,WH-B,YES 
+ORD-1001,Delayed,0,WH-C,YES 
+ORD-1245,Delayed,,WH-A,No
+ORD-1209,delivered ,1,WH-B,YES 
+ORD-1400,Delayed,5,WH-C,Yes
+ORD-1285,Delivered,,WH-C,Yes
+ORD-1358,Delayed,0,,No
+ORD-1012,delivered ,0,WH-C,
+ORD-1095,delivered ,1,WH-A,
+ORD-1497,Delivered,5,WH-B,
+ORD-1220,Returned,3,WH-C,Yes
+ORD-1237,Delayed,7,WH-A,
+ORD-1093,delivered ,5,WH-C,
+ORD-1337,Delayed,2,WH-C,No
+ORD-1268,Delayed,0,WH-C,
+ORD-1170,Returned,2,WH-C,Yes
+ORD-1468,delivered ,3,WH-C,Yes
+ORD-1093,Delayed,2,WH-A,Yes
+ORD-1148,delivered ,5,WH-B,No
+ORD-1111,Delivered,2,WH-B,No
+ORD-1054,Delivered,3,WH-B,YES 
+ORD-1336,Delayed,3,WH-B,
+ORD-1423,delivered ,3,WH-A,No
+ORD-1466,Delayed,5,,Yes
+ORD-1115,delivered ,3,,Yes
+ORD-1142,delivered ,0,WH-A,No
+ORD-1200,Returned,,WH-A,No
+ORD-1179,Returned,3,WH-C,No
+ORD-1201,Returned,2,WH-C,YES 
+ORD-1363,Delayed,7,WH-C,Yes
+ORD-1478,Returned,2,WH-B,YES 
+ORD-1052,Returned,7,WH-C,YES 
+ORD-1470,Delivered,2,,
+ORD-1383,delivered ,5,WH-B,Yes
+ORD-1179,delivered ,2,WH-C,Yes
+ORD-1413,Returned,5,WH-B,No
+ORD-1416,delivered ,5,,No
+ORD-1312,Delivered,3,WH-C,
+ORD-1307,Delivered,0,,YES 
+ORD-1136,Returned,7,,No
+ORD-1181,Delivered,3,,No
+ORD-1366,delivered ,3,WH-C,Yes
+ORD-1000,Delayed,,WH-A,Yes
+ORD-1043,delivered ,5,WH-C,No
+ORD-1226,Delayed,5,,Yes
+ORD-1330,Returned,7,WH-C,
+ORD-1097,Delayed,2,,No
+ORD-1207,Delivered,2,WH-A,Yes
+ORD-1264,delivered ,3,WH-B,
+ORD-1287,Delayed,1,WH-A,Yes
+ORD-1270,delivered ,1,WH-A,Yes
+ORD-1139,Returned,2,WH-B,Yes
+ORD-1480,Returned,1,WH-C,No
+ORD-1236,Delivered,,WH-B,YES 
+ORD-1461,Returned,2,WH-C,Yes
+ORD-1440,Delayed,5,WH-C,
+ORD-1391,Returned,3,,No
+ORD-1071,Delivered,0,,No
+ORD-1154,delivered ,3,WH-B,
+ORD-1189,delivered ,2,WH-A,Yes
+ORD-1267,Returned,,WH-B,YES 
+ORD-1320,Delayed,2,WH-C,Yes
+ORD-1106,Delivered,3,,
+ORD-1231,Delayed,,WH-B,No
+ORD-1041,Delivered,,WH-B,YES 
+ORD-1189,Returned,,,No
+ORD-1370,Delivered,7,,
+ORD-1138,Delivered,2,,Yes
+ORD-1102,Returned,1,WH-C,YES 
+ORD-1170,Delayed,1,,No
+ORD-1350,Returned,2,WH-A,No
+ORD-1272,Delivered,2,WH-B,No
+ORD-1480,Returned,7,,Yes
+ORD-1415,Delivered,1,,YES 
+ORD-1220,Returned,2,WH-C,Yes
+ORD-1212,delivered ,2,WH-C,Yes
+ORD-1340,delivered ,7,WH-B,Yes
+ORD-1423,Returned,7,WH-A,
+ORD-1406,Delayed,3,WH-B,
+ORD-1055,Delivered,7,,
+ORD-1389,delivered ,0,WH-A,YES 
